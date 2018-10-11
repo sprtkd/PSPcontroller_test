@@ -1,0 +1,36 @@
+-------------- Python-PSP started Tue Oct  2 17:56:30 2018
+
+Free memory: 719872
+PyPSP running in: ms0:/PSP/GAME/controller_test
+Could not find platform independent libraries <prefix>
+Consider setting $PYTHONHOME to <prefix>[:<exec_prefix>]
+Search path: python.zip;ms0:/lib/python21.zip;ms0:/python/site-packages;ms0:/python
+
+'import site' failed; use -v for traceback
+-------------- Python-PSP started Tue Oct  2 18:00:54 2018
+
+Free memory: 719872
+PyPSP running in: ms0:/PSP/GAME/controller_test
+Could not find platform independent libraries <prefix>
+Consider setting $PYTHONHOME to <prefix>[:<exec_prefix>]
+Search path: python.zip;ms0:/lib/python21.zip;ms0:/python/site-packages;ms0:/python
+
+'import site' failed; use -v for traceback
+-------------- Python-PSP started Tue Oct  2 19:23:19 2018
+
+Free memory: 719872
+PyPSP running in: ms0:/PSP/GAME/controller_test
+Could not find platform independent libraries <prefix>
+Consider setting $PYTHONHOME to <prefix>[:<exec_prefix>]
+Search path: python.zip;ms0:/lib/python21.zip;ms0:/python/site-packages;ms0:/python
+
+'import site' failed; use -v for traceback
+-------------- Python-PSP started Tue Oct  2 22:03:27 2018
+
+Free memory: 719872
+PyPSP running in: ms0:/PSP/GAME/controller_test
+Could not find platform independent libraries <prefix>
+Consider setting $PYTHONHOME to <prefix>[:<exec_prefix>]
+Search path: python.zip;ms0:/lib/python21.zip;ms0:/python/site-packages;ms0:/python
+
+'import site' failed; use -v for traceback
